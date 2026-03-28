@@ -1,0 +1,29 @@
+import math 
+def add(a,b):
+    return a+b
+def subtract(a,b):
+    return a-b
+def multiply(a,b):
+    return (a*b)
+def divide(a,b):
+    return a/b
+def modulus(a,b):
+    return a%b
+def power(a,b):
+    return math.power(a,b)
+def square_root(a):
+    return math.sqrt(a)
+def natural_log(a):
+    return math.log(a)
+def log_base_10(a):
+    return math.log10(a)
+def sin(a):
+    return math.sin(math.radians(a))
+def cos(a):
+    return math.cos(math.radians(a))
+def tan(a):
+    return math.tan(math.radians(a))
+def tangent(a):
+    return math.tan(math.radians(a))
+def factorial(a):
+    return math.factorial(a)
